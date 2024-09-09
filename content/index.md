@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-17T10:13:20Z
+lastmod: 2024-09-09T9:00:00Z
 head:
   meta:
     - name: keywords
@@ -9,13 +9,29 @@ head:
     - name: author
       content: Iwo Strzeboński
     - name: copyright
-      content: © 2023 KN Integra
+      content: © 2024 KN Integra
     - name: createdAt
-      content: 2023-03-20T19:40:00Z
+      content: 2024-09-09T9:00:00Z
 ---
 
-# Koło Naukowe Integra
+# Festiwal Robotyki ROBOCOMP
 
-[![integra-logo.png](https://i.postimg.cc/T2NmZ0t5/integra-logo.png)](http://www.integra.agh.edu.pl/)
+<!-- markdownlint-disable MD003 MD007 -->
+::picture-component
+---
 
-## Koło Integra gromadzi ludzi z pasją, którzy poprzez realizację projektów rozwijają swoje zainteresowania. Integra - to jest to!
+image:
+  src: /work-in-progress.png
+  size: xxl
+
+alt: Work in Progress
+
+---
+::
+<!-- markdownlint-enable MD003 MD007 -->
+
+<!-- markdownlint-disable MD003 MD007 -->
+:countdown-component
+<!-- markdownlint-enable MD003 MD007 -->
+
+## Festiwal robotyki ROBOCOMP to inicjatywa Koła Naukowego Integra. Główną atrakcją będą zawody robotów oraz pokazy firm związanych z robotyką, automatyką i elektroniką.
