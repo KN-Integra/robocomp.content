@@ -1,0 +1,12 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo '🏗️👷 Changing Modified At metadata for changed files...'
+
+git diff --cached --name-only --diff-filter=ACM -z -- content/ | xargs -0 perl -0777 -i -pe "s/(lastmod:).*\s/\1$(date -u +" %Y-%m-%dT%H:%M:%SZ")\n/g"
+
+echo '👷🏗️ Done! Now adding all changed files'
+
+git add --all
+
+echo '✅ All done! 🎉'

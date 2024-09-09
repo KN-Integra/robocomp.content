@@ -1,0 +1,15 @@
+{
+  "name": "integra.content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iwo-strzebonski/integra.content.git",
+  "author": "Octoturge <iwo.strzebonski@gmail.com>",
+  "license": "WTFPL",
+  "private": false,
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "husky": "^8.0.3"
+  }
+}
