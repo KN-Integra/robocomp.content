@@ -19,5 +19,3 @@ head:
 <!-- markdownlint-disable MD003 MD007 -->
 :countdown-component
 <!-- markdownlint-enable MD003 MD007 -->
-
-## Festiwal robotyki ROBOCOMP to inicjatywa Koła Naukowego Integra. Główną atrakcją będą zawody robotów oraz pokazy firm związanych z robotyką, automatyką i elektroniką.
