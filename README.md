@@ -1,6 +1,6 @@
 <!-- DO NOT EDIT ANYTHING BELOW THIS LINE -->
 
-# integra.content
+# robocomp.content
 
 This repository contains the content of the [AGH Integra Science Club](knintegra.vercel.app) website.
 

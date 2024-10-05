@@ -1,8 +1,8 @@
 {
-  "name": "integra.content",
+  "name": "robocomp.content",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/iwo-strzebonski/integra.content.git",
+  "repository": "https://github.com/KN-Integra/robocomp.content.git",
   "author": "Octoturge <iwo.strzebonski@gmail.com>",
   "license": "WTFPL",
   "private": false,
