@@ -17,20 +17,6 @@ head:
 # Festiwal Robotyki ROBOCOMP
 
 <!-- markdownlint-disable MD003 MD007 -->
-::picture-component
----
-
-image:
-  src: /work-in-progress.png
-  size: xxl
-
-alt: Work in Progress
-
----
-::
-<!-- markdownlint-enable MD003 MD007 -->
-
-<!-- markdownlint-disable MD003 MD007 -->
 :countdown-component
 <!-- markdownlint-enable MD003 MD007 -->
 
