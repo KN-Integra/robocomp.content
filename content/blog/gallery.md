@@ -14,7 +14,7 @@ head:
       content: 2024-10-04T21:35:00Z
 ---
 
-# Galeria
+# Poprzednie edycje naszego festiwalu
 
 <!-- markdownlint-disable MD003 MD007 -->
 :robocomp-gallery
