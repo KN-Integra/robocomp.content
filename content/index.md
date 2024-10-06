@@ -3,9 +3,7 @@ lastmod: 2024-09-09T9:00:00Z
 head:
   meta:
     - name: keywords
-      content: home, index, main, start
-    - name: robots
-      content: index follow
+      content: home, index, main, start, landing-page
     - name: author
       content: Iwo Strzeboński
     - name: copyright

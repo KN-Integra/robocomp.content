@@ -4,8 +4,8 @@ head:
   meta:
     - name: keywords
       content: schedule, timetable, plan, agenda
-    - name: robots
-      content: index follow
+    - name: description
+      content: Harmonogram Festiwalu Robotyki ROBOCOMP
     - name: author
       content: Iwo Strzeboński
     - name: copyright

@@ -4,8 +4,8 @@ head:
   meta:
     - name: keywords
       content: gallery, photos, pictures, images
-    - name: robots
-      content: index follow
+    - name: description
+      content: Galeria zdjęć z Festiwalu Robotyki ROBOCOMP
     - name: author
       content: Iwo Strzeboński
     - name: copyright

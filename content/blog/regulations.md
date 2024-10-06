@@ -4,8 +4,8 @@ head:
   meta:
     - name: keywords
       content: regulations, rules, terms, conditions
-    - name: robots
-      content: index follow
+    - name: description
+      content: Regulaminy konkurencji na Festiwalu Robotyki ROBOCOMP
     - name: author
       content: Iwo Strzeboński
     - name: copyright
