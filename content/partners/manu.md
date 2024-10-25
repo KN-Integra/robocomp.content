@@ -1,6 +1,5 @@
 ---
-lastmod: 2024-10-24T11:30:00Z
-draft: true
+lastmod: 2024-10-25T10:50:00Z
 head:
   meta:
     - name: keywords
@@ -13,4 +12,4 @@ head:
       content: 2024-10-24T11:30:00Z
 ---
 
-# Małopolska Akademia Nabywania Umiejętności
+# Małopolska <br />Akademia <br />Nabywania <br />Umiejętności
