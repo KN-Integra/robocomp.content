@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-11T12:52:00Z
+lastmod: 2024-10-25T10:50:00Z
 head:
   meta:
     - name: keywords
@@ -14,7 +14,7 @@ head:
       content: 2024-10-06T00:03:00Z
 ---
 
-# Regulaminy Festiwalu Robotyki ROBOCOMP 2024
+# Regulaminy <br />Festiwalu Robotyki <br />ROBOCOMP 2024
 
 - <a href="/docs/2024/Regulamin Główny.pdf" target="_blank">Regulamin Główny</a> (ostatnia aktualizacja: 7. października 2024, 13:18 CEST)
 - <a href="/docs/2024/Sumo.pdf" target="_blank">Regulaminy kategorii Sumo Standard, Mini, Mikro</a> (ostatnia aktualizacja: 7. października 2024, 13:18 CEST)
