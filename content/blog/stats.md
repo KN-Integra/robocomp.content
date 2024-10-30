@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-09T09:30:00Z
+lastmod: 2024-10-30T11:36:00Z
 head:
   meta:
     - name: keywords
@@ -18,4 +18,8 @@ head:
 
 <!-- markdownlint-disable MD003 MD007 -->
 :competitions-chart
+<!-- markdownlint-enable MD003 MD007 -->
+
+<!-- markdownlint-disable MD003 MD007 -->
+:stats-tables
 <!-- markdownlint-enable MD003 MD007 -->

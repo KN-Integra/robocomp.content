@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-25T10:50:00Z
+lastmod: 2024-10-30T11:36:00Z
 head:
   meta:
     - name: keywords
@@ -17,5 +17,5 @@ head:
 # Poprzednie edycje<br />naszego Festiwalu
 
 <!-- markdownlint-disable MD003 MD007 -->
-:robocomp-gallery
+:dynamic-gallery
 <!-- markdownlint-enable MD003 MD007 -->

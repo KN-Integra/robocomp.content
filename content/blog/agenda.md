@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-04T21:18:00Z
+lastmod: 2024-10-30T11:36:00Z
 head:
   meta:
     - name: keywords
@@ -17,7 +17,7 @@ head:
 # Plan wydarzenia
 
 <!-- markdownlint-disable MD003 MD007 -->
-::robocomp-schedule
+::schedule-chart
 ---
 scheduleName: robots
 ---
