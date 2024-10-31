@@ -14,7 +14,7 @@ head:
       content: 2024-10-04T21:35:00Z
 ---
 
-# Poprzednie edycje<br />naszego Festiwalu
+# Poprzednie edycje<br /> naszego Festiwalu
 
 <!-- markdownlint-disable MD003 MD007 -->
 :dynamic-gallery
