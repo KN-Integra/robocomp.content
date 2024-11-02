@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-25T07:30:00Z
+lastmod: 2024-10-25T20:46:00Z
 head:
   meta:
     - name: keywords
@@ -16,12 +16,20 @@ head:
 
 # Regulaminy <br />Festiwalu Robotyki <br />ROBOCOMP 2024
 
-- <a href="/docs/2024/Regulamin Główny.pdf" target="_blank">Regulamin Główny</a> (ostatnia aktualizacja: 7. października 2024, 13:18 CEST)
-- <a href="/docs/2024/Sumo.pdf" target="_blank">Regulaminy kategorii Sumo Standard, Mini, Mikro</a> (ostatnia aktualizacja: 7. października 2024, 13:18 CEST)
-- <a href="/docs/2024/Lego Sumo.pdf" target="_blank">Regulamin kategorii Lego Sumo</a> (ostatnia aktualizacja: 29. października 2024, 09:20 CEST)
-- <a href="/docs/2024/Mini Smashbots.pdf" target="_blank">Regulamin kategorii Smashbots Mini</a> (ostatnia aktualizacja: 11. października 2024, 14:50 CEST)
-- <a href="/docs/2024/Line Follower Standard.pdf" target="_blank">Regulamin kategorii Line Follower Standard</a> (ostatnia aktualizacja: 7. października 2024, 13:18 CEST)
-- <a href="/docs/2024/Line Follower Enhanced.pdf" target="_blank">Regulamin kategorii Line Follower Enhanced</a> (ostatnia aktualizacja: 7. października 2024, 13:18 CEST)
-- <a href="/docs/2024/Micromouse.pdf" target="_blank">Regulamin kategorii Micromouse</a> (ostatnia aktualizacja: 11. października 2024, 14:50 CEST)
-- <a href="/docs/2024/RoboSprint.pdf" target="_blank">Regulamin kategorii Robosprint</a> (ostatnia aktualizacja: 29. października 2024, 09:20 CEST)
-- <a href="/docs/2024/Freestyle.pdf" target="_blank">Regulamin kategorii Freestyle</a> (ostatnia aktualizacja: 11. października 2024, 14:50 CEST)
+## Regulamin Główny i zgody
+
+- <a href="/docs/2024/Regulamin Główny.pdf" target="_blank">Regulamin Główny</a> (ostatnia aktualizacja: 7. października 2024, 12:18)
+- <a href="/docs/2024/REGULAMIN-HALI-SPORTOWEJ-AKADEMII-GORNICZO-ogolny.pdf" target="_blank">Regulamin Hali Sportowej AGH</a> (ostatnia aktualizacja: 2. listopada 2024, 21:46)
+- <a href="/docs/2024/REGULAMIN-KORZYSTANIA-Z-SALI-DO-GIER-SPORTOWYCH.pdf" target="_blank">Regulamin korzystania z sali do gier sportowych</a> (ostatnia aktualizacja: 2. listopada 2024, 21:46)
+- <a href="/docs/2024/Zgoda na Uczestnictwo.pdf" target="_blank">Zgoda na uczestnictwo osoby niepełnoletniej</a> (ostatnia aktualizacja: 2. listopada 2024, 21:46)
+
+## Regulaminy konkurencji
+
+- <a href="/docs/2024/Sumo.pdf" target="_blank">Regulaminy kategorii Sumo Standard, Mini, Mikro</a> (ostatnia aktualizacja: 7. października 2024, 12:18)
+- <a href="/docs/2024/Lego Sumo.pdf" target="_blank">Regulamin kategorii Lego Sumo</a> (ostatnia aktualizacja: 29. października 2024, 08:20)
+- <a href="/docs/2024/Mini Smashbots.pdf" target="_blank">Regulamin kategorii Smashbots Mini</a> (ostatnia aktualizacja: 11. października 2024, 13:50)
+- <a href="/docs/2024/Line Follower Standard.pdf" target="_blank">Regulamin kategorii Line Follower Standard</a> (ostatnia aktualizacja: 7. października 2024, 12:18)
+- <a href="/docs/2024/Line Follower Enhanced.pdf" target="_blank">Regulamin kategorii Line Follower Enhanced</a> (ostatnia aktualizacja: 7. października 2024, 12:18)
+- <a href="/docs/2024/Micromouse.pdf" target="_blank">Regulamin kategorii Micromouse</a> (ostatnia aktualizacja: 11. października 2024, 13:50)
+- <a href="/docs/2024/RoboSprint.pdf" target="_blank">Regulamin kategorii Robosprint</a> (ostatnia aktualizacja: 29. października 2024, 08:20)
+- <a href="/docs/2024/Freestyle.pdf" target="_blank">Regulamin kategorii Freestyle</a> (ostatnia aktualizacja: 11. października 2024, 13:50)
