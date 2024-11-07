@@ -15,3 +15,25 @@ head:
 ---
 
 # ASTAR Sp. z o.o.
+
+<!-- markdownlint-disable MD003 MD013 -->
+::image-carousel
+---
+images:
+- src: https://github.com/KN-Integra/robocomp.content/blob/main/img/astar_1.jpg?raw=true
+  alt: ASTAR fabryka
+- src: https://github.com/KN-Integra/robocomp.content/blob/main/img/astar_2.jpg?raw=true
+  alt: Linia produkcyjna
+- src: https://github.com/KN-Integra/robocomp.content/blob/main/img/astar_3.jpg?raw=true
+  alt: Komputer monitorujący produkcję
+---
+::
+<!-- markdownlint-enable MD003 MD013 -->
+
+Firma ASTAR zlokalizowana w Bielsku-Białej od 1995 roku jest liczącym się producentem sprzętu medycznego. Łączy pasję do innowacji z najnowszymi osiągnięciami w dziedzinie technologii, tworząc urządzenia, które pomagają fizjoterapeutom w ich codziennej pracy.
+
+ASTAR to w 100% polski kapitał. Firma projektuje i produkuje urządzenia wspierające aż 10 różnych terapii rehabilitacyjnych. Produkty firmy sprzedawane są w Polsce i 76 krajach na całym świecie.
+
+Dział projektowy Astar skupia ekspertów w dziedzinach: konstrukcji mechanicznej, elektroniki i oprogramowania, co pozwala na tworzenie urządzeń o najwyższej jakości i funkcjonalności. W ASTAR pasja spotyka się z możliwościami, dzięki czemu realizowane są cele firmy.
+
+<iframe src="https://www.youtube.com/watch?v=F8MyHsNoYf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; aspect-ratio: 16/9" />
