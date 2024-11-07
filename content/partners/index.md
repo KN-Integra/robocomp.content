@@ -7,6 +7,7 @@ head:
       content: sponsors, partners, supporters
     - name: author
       content: Iwo Strzeboński
+    - description: Organizatorzy i Patroni Wydarzenia
     - name: copyright
       content: © 2024 KN Integra
     - name: createdAt

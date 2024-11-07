@@ -1,11 +1,13 @@
 ---
-lastmod: 2024-11-7T00:30:00Z
+lastmod: 2024-11-07T07:00:00Z
 head:
   meta:
     - name: keywords
       content: sponsors, partners, supporters
     - name: author
       content: Sebastian Soczawa
+    - name: description
+      description: Grupa Scanmed - partner ROBOCOMP 2024
     - name: copyright
       content: © 2024 KN Integra
     - name: createdAt
@@ -17,4 +19,4 @@ Grupa Scanmed jest jednym z największych prywatnych operatorów opieki medyczne
 podstawową opiekę zdrowotną, ambulatoryjną opiekę specjalistyczną oraz leczenie szpitalne w blisko
 40 lokalizacjach w całej Polsce.
 
-Więcej o Scanmed ->https://scanmed.pl/
+Więcej o Scanmed -> https://scanmed.pl/

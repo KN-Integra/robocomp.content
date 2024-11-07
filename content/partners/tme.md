@@ -6,6 +6,8 @@ head:
       content: sponsors, partners, supporters
     - name: author
       content: Iwo Strzeboński
+    - name: description
+      content: Transfer Multisort Elektronik Sp. z o.o. - partner ROBOCOMP 2024
     - name: copyright
       content: © 2024 KN Integra
     - name: createdAt

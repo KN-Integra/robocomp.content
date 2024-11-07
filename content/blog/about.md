@@ -1,11 +1,9 @@
 ---
-lastmod: 2024-10-25T10:50:00Z
+lastmod: 2024-11-07T07:00:00Z
 head:
   meta:
     - name: keywords
       content: about, festival, robotics, ROBOCOMP
-    - name: robots
-      content: noindex nofollow
     - name: author
       content: Iwo Strzeboński
     - name: copyright

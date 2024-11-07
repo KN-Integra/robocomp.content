@@ -1,11 +1,11 @@
 ---
-lastmod: 2024-10-09T18:05:41Z
+lastmod: 2024-11-07T07:00:00Z
 head:
   meta:
     - name: keywords
       content: contact, kontakt
-    - name: robots
-      content: index follow
+    - name: description
+      content: Kontakt do organizatorów Festiwalu Robotyki ROBOCOMP
     - name: author
       content: Iwo Strzeboński
     - name: copyright
