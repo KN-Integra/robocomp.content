@@ -20,13 +20,13 @@ head:
 ::image-carousel
 ---
 images:
-- src: https://github.com/KN-Integra/robocomp.content/blob/main/img/manu_1.jpg?raw=true
+- src: https://github.com/KN-Integra/robocomp.content/blob/main/assets/img/manu_1.jpg?raw=true
   alt: MANU zajęcia
-- src: https://github.com/KN-Integra/robocomp.content/blob/main/img/manu_2.jpg?raw=true
+- src: https://github.com/KN-Integra/robocomp.content/blob/main/assets/img/manu_2.jpg?raw=true
   alt: Przygotowania do zajęć
-- src: https://github.com/KN-Integra/robocomp.content/blob/main/img/manu_3.jpg?raw=true
+- src: https://github.com/KN-Integra/robocomp.content/blob/main/assets/img/manu_3.jpg?raw=true
   alt: Sterowanie robotem
-- src: https://github.com/KN-Integra/robocomp.content/blob/main/img/manu_4.jpg?raw=true
+- src: https://github.com/KN-Integra/robocomp.content/blob/main/assets/img/manu_4.jpg?raw=true
   alt: Robot i pies
 ---
 ::

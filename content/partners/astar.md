@@ -36,6 +36,8 @@ ASTAR to w 100% polski kapitał. Firma projektuje i produkuje urządzenia wspier
 
 Dział projektowy Astar skupia ekspertów w dziedzinach: konstrukcji mechanicznej, elektroniki i oprogramowania, co pozwala na tworzenie urządzeń o najwyższej jakości i funkcjonalności. W ASTAR pasja spotyka się z możliwościami, dzięki czemu realizowane są cele firmy.
 
-<iframe src="https://github.com/KN-Integra/robocomp.content/blob/main/assets/pdf/ASTAR Ulotka_ROBOCOMP_2024_ver001_rozkładówka.pdf" />
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/KN-Integra/robocomp.content/blob/main/assets/pdf/ASTAR%20Ulotka_ROBOCOMP_2024_ver001_rozk%C5%82ad%C3%B3wka.pdf?raw=true" type="application/pdf" style="width: 100%; aspect-ratio: 16/9; margin-top: 1rem" />
 
-<iframe src="https://www.youtube.com/watch?v=F8MyHsNoYf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; aspect-ratio: 16/9" />
+
+<iframe src="https://www.youtube.com/embed/F8MyHsNoYf8?si=WvLMO4HlJ_qTCcna" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; aspect-ratio: 16/9; margin-top: 1rem" />
