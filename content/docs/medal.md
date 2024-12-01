@@ -29,12 +29,12 @@ head:
 https://web.esphome.io/?dashboard_install" style="width: 100%; aspect-ratio: 16/9" allow="serial *" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts" />
 
 
-## Model 3D
+<!-- ## Model 3D -->
 
 <!-- markdownlint-disable MD003 MD013 -->
-::model-renderer
+<!-- ::model-renderer
 ---
-model: https://github.com/KN-Integra/robocomp.content/blob/main/assets/3d/medal.glb?raw=true
+model: /3d/medal.glb
 ---
-::
+:: -->
 <!-- markdownlint-enable MD003 MD013 -->
