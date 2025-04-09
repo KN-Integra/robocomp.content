@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-30T11:36:00Z
+lastmod: 2025-10-30T09:50:00Z
 head:
   meta:
     - name: keywords
@@ -14,7 +14,7 @@ head:
       content: 2024-10-09T09:30:00Z
 ---
 
-# ROBOCOMP 2024 w liczbach
+# ROBOCOMP 2025 w liczbach
 
 <!-- markdownlint-disable MD003 MD007 -->
 :competitions-chart

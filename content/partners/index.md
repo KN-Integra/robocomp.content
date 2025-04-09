@@ -7,14 +7,14 @@ head:
       content: sponsors, partners, supporters
     - name: author
       content: Iwo Strzeboński
-    - description: Organizatorzy i Patroni Wydarzenia
+    - description: Organizatorzy i Partnerzy Wydarzenia
     - name: copyright
       content: © 2024 KN Integra
     - name: createdAt
       content: 2024-10-24T11:30:00Z
 ---
 
-# Organizatorzy <br />i Patroni <br />Wydarzenia
+# Organizatorzy <br />i Partnerzy <br />Wydarzenia
 
 Naciśnij logo danego partnera, aby dowiedzieć się więcej o nim więcej!
 

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sofyne Active Technology",
+    "logo": "/logo/sofyne.svg",
+    "url": "https://sofynetech.com/",
+    "internalName": "sofyne",
+    "type": "bronze"
+  },
+  {
+    "name": "Rainlabs Services Sp. z o.o.",
+    "logo": "/logo/rainlabs.png",
+    "url": "https://www.rainlabs.pl/",
+    "internalName": "rainlabs",
+    "type": "support"
+  }
+]

@@ -13,7 +13,7 @@ head:
 ---
 
 <!-- markdownlint-disable MD003 MD007 -->
-<!-- :countdown-component -->
+:countdown-component
 <!-- markdownlint-enable MD003 MD007 -->
 
 <br />
