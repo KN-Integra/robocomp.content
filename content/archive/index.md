@@ -12,6 +12,6 @@ head:
       content: 2024-09-09T06:50:00Z
 ---
 
-# Archiwum Festiwalu Robotyki
+# Archiwum Festiwalu Robotyki ROBOCOMP
 
 - [2024](/archive/2024/)
