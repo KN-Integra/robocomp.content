@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-25T10:50:00Z
+lastmod: 2025-07-29T07:00:00Z
 head:
   meta:
     - name: keywords
@@ -7,9 +7,9 @@ head:
     - name: author
       content: Iwo Strzeboński
     - name: description
-      content: Transfer Multisort Elektronik Sp. z o.o. - partner ROBOCOMP 2024
+      content: TME Sp. z o.o. - partner ROBOCOMP 2025
     - name: copyright
-      content: © 2024 KN Integra
+      content: © 2025 KN Integra
     - name: createdAt
       content: 2024-10-24T11:30:00Z
 ---

@@ -14,5 +14,4 @@ head:
 
 # Instrukcje oraz dokumentacje
 
-* [Instrukcja składania medali](./medal)
-* [Oferta Partnerska](./pdf/Robocomp%202025%20-%20Oferta%20Partnerska.pdf)
+* [Regulaminy](./blog/regulations)

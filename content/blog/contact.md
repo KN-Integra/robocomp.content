@@ -39,9 +39,9 @@ ul. Czarnowiejska 30/4<br />
 
 - **Organizator Główny**: Iwo Strzeboński
 - **Organizator Główny**: Mateusz Szynal
-- **Koordynator ds. Uczestników**: Soczawa Sebastian
+- **Koordynator ds. Uczestników**: Adam Maciuga
 - **Koordynator ds. Promocji i Marketingu**: Andrzej Piotrowski
-- **Koordynator ds. Technicznych**: Dominik Korona
+- **Koordynator ds. Technicznych**: Eryk Pawełek
 
 ## Dane Kontaktowe
 

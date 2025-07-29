@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-11-07T07:00:00Z
+lastmod: 2025-07-29T07:00:00Z
 head:
   meta:
     - name: keywords
@@ -7,9 +7,9 @@ head:
     - name: author
       content: Sebastian Soczawa
     - name: description
-      description: Grupa Scanmed - partner ROBOCOMP 2024
+      description: Grupa Scanmed - partner ROBOCOMP 2025
     - name: copyright
-      content: © 2024 KN Integra
+      content: © 2025 KN Integra
     - name: createdAt
       content: 2024-11-7T00:30:00Z
 ---

@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-24T11:30:00Z
+lastmod: 2025-07-29T11:30:00Z
 draft: true
 head:
   meta:
@@ -9,7 +9,7 @@ head:
       content: Iwo Strzeboński
     - description: Organizatorzy i Partnerzy Wydarzenia
     - name: copyright
-      content: © 2024 KN Integra
+      content: © 2025 KN Integra
     - name: createdAt
       content: 2024-10-24T11:30:00Z
 ---

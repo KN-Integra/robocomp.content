@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-10-30T11:36:00Z
+lastmod: 2025-07-29T07:00:00Z
 head:
   meta:
     - name: keywords
@@ -14,7 +14,7 @@ head:
       content: 2024-10-05T21:18:00Z
 ---
 
-# Plan wydarzenia ROBOCOMP 2024
+# Plan wydarzenia ROBOCOMP 2025
 
 Plan wydarzenia jest automatycznie odświeżany na bieżąco. Prosimy o sprawdzanie najnowszej wersji.
 

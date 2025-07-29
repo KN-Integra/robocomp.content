@@ -7,10 +7,52 @@
     "type": "bronze"
   },
   {
-    "name": "Rainlabs Services Sp. z o.o.",
+    "name": "Rainlabs Services",
     "logo": "/logo/rainlabs.png",
     "url": "https://www.rainlabs.pl/",
     "internalName": "rainlabs",
     "type": "support"
+  },
+  {
+    "name": "STMicroelectronics",
+    "logo": "/logo/stm.svg",
+    "url": "https://www.st.com/",
+    "internalName": "stm",
+    "type": "support"
+  },
+  {
+    "name": "Forum Automatyki <br />i Robotyki Polskiej",
+    "logo": "/logo/fairp.png",
+    "url": "https://www.krakow.pl/3401,obj,14437,patronaty.html",
+    "internalName": "fairp",
+    "type": "honorary"
+  },
+  {
+    "name": "Małopolska Akademia Nabywania Umiejętności",
+    "logo": "/logo/manu.png",
+    "url": "https://manuonline.pl/",
+    "internalName": "manu",
+    "type": "silver"
+  },
+  {
+    "name": "Muzeum Sztuki i Techniki Japońskiej Manggha",
+    "logo": "/logo/manggha.png",
+    "url": "https://manggha.pl/",
+    "internalName": "manggha",
+    "type": "cultural"
+  },
+  {
+    "name": "TME",
+    "logo": "/logo/tme.png",
+    "url": "https://www.tme.eu/",
+    "internalName": "tme",
+    "type": "gold"
+  },
+  {
+    "name": "DPS Software",
+    "logo": "/logo/dps-software.png",
+    "url": "https://dps-software.pl/",
+    "internalName": "dps-software",
+    "type": "gold"
   }
 ]

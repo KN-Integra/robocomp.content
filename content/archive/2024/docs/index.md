@@ -14,4 +14,4 @@ head:
 
 # Instrukcje oraz dokumentacje
 
-* [Instrukcja składania medali](./medal)
+* [Instrukcja składania medali](./docs/medal)
