@@ -18,11 +18,11 @@ head:
 
 ## Regulamin Główny i zgody
 
-- <a href="/docs/pdf/Regulamin Główny.pdf" target="_blank">Regulamin Główny</a> (ostatnia aktualizacja: 7. października 2024, 12:18)
+- <a href="/docs/pdf/Regulamin Główny.pdf" target="_blank">Regulamin Główny</a> (ostatnia aktualizacja: 29. lipca 2025, 11:00)
 - <a href="/docs/pdf/REGULAMIN-HALI-SPORTOWEJ-AKADEMII-GORNICZO-ogolny.pdf" target="_blank">Regulamin Hali Sportowej AGH</a> (ostatnia aktualizacja: 1. października 2023, 9:00)
 - <a href="/docs/pdf/REGULAMIN-KORZYSTANIA-Z-SALI-DO-GIER-SPORTOWYCH.pdf" target="_blank">Regulamin korzystania z sali do gier sportowych</a> (ostatnia aktualizacja: 1. października 2023, 9:00)
-- <a href="/docs/pdf/Zgoda na Uczestnictwo.pdf" target="_blank">Zgoda na uczestnictwo osoby niepełnoletniej</a> (ostatnia aktualizacja: 2. listopada 2024, 21:46)
-- <a href="/docs/pdf/Zgoda RODO.pdf" target="_blank">Zgoda na przetwarzanie danych osobowych</a> (ostatnia aktualizacja: 8. listopada 2024, 8:29)
+- <a href="/docs/pdf/Zgoda na Uczestnictwo.pdf" target="_blank">Zgoda na udział w zawodach osoby niepełnoletniej</a> (ostatnia aktualizacja: 29. lipca 2025, 11:00)
+- <a href="/docs/pdf/Zgoda RODO.pdf" target="_blank">Zgoda na przetwarzanie danych osobowych</a> (ostatnia aktualizacja: 29. lipca 2025, 11:00)
 
 ## Regulaminy konkurencji
 
