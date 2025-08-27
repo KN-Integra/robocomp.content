@@ -21,6 +21,20 @@
     "type": "support"
   },
   {
+    "name": "Fujisoft",
+    "logo": "/logo/fujisoft.png",
+    "url": "https://www.fsi.co.jp/e/",
+    "internalName": "fujisoft",
+    "type": "support"
+  },
+  {
+    "name": "All-Japan Robot-Sumo Tournament",
+    "logo": "/logo/japan-sumo.svg",
+    "url": "https://robot-sumo.jp/",
+    "internalName": "japan-sumo",
+    "type": "support"
+  },
+  {
     "name": "Forum Automatyki <br />i Robotyki Polskiej",
     "logo": "/logo/fairp.png",
     "url": "https://www.krakow.pl/3401,obj,14437,patronaty.html",
