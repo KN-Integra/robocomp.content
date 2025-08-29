@@ -28,7 +28,7 @@
     "type": "support"
   },
   {
-    "name": "All-Japan Robot-Sumo Tournament",
+    "name": "All Japan Robot-Sumo Tournament",
     "logo": "/logo/japan-sumo.svg",
     "url": "https://robot-sumo.jp/",
     "internalName": "japan-sumo",
