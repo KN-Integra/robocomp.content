@@ -34,7 +34,9 @@ head:
 - <a href="/docs/pdf/regulations/LEGO Line Follower.pdf" target="_blank">Regulamin kategorii LEGO Line Follower</a> (ostatnia aktualizacja: 26. sierpnia 2025, 18:00)
 - <a href="/docs/pdf/regulations/Smash Bots Mini.pdf" target="_blank">Regulamin kategorii Smash Bots Mini</a> (ostatnia aktualizacja: 26. sierpnia 2025, 18:00)
 - <a href="/docs/pdf/regulations/Freestyle.pdf" target="_blank">Regulamin kategorii Freestyle</a> (ostatnia aktualizacja: 30. sierpnia 2025, 20:30)
-- <a href="/docs/pdf/competitions/Drone.pdf" target="_blank">Regulamin kategorii Radio Silence i Delivery Boy</a> (ostatnia aktualizacja: 5. września 2025, 18:00)
+- <a href="/docs/pdf/regulations/AGH Drone Engineering - Delivery Boy" target="_blank">Regulamin kategorii Delivery Boy</a> (ostatnia aktualizacja: 10. września 2025, 15:00)
+- <a href="/docs/pdf/regulations/AGH Drone Engineering - Radio Silence.pdf" target="_blank">Regulamin kategorii Radio Silence</a> (ostatnia aktualizacja: 10. września 2025, 15:00)
 <!-- - <a href="/docs/pdf/competitions/Micromouse.pdf" target="_blank">Regulamin kategorii Micromouse</a> (ostatnia aktualizacja: 5. września 2025, 18:00)
 - <a href="/docs/pdf/competitions/RoboSprint.pdf" target="_blank">Regulamin kategorii Robosprint</a> (ostatnia aktualizacja: 5. września 2025, 18:00) --?
+
 
