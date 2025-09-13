@@ -68,5 +68,20 @@
     "url": "https://dps-software.pl/",
     "internalName": "dps-software",
     "type": "gold"
+  },
+  {
+    "name": "Portal Magiczny Kraków",
+    "logo": "/logo/krakow-pl.jpg",
+    "url": "https://www.krakow.pl/",
+    "internalName": "krakow-pl",
+    "type": "media"
+  },
+  {
+    "name": "Aleksander Miszalski<br /> Prezydent Miasta Krakowa",
+    "logo": "/logo/miasto-krakow.jpg",
+    "url": "https://www.krakow.pl/3401,obj,14437,patronaty.html",
+    "internalName": "miasto-krakow",
+    "type": "honorary"
   }
 ]
+
