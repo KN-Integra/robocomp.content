@@ -35,13 +35,6 @@
     "type": "support"
   },
   {
-    "name": "Forum Automatyki <br />i Robotyki Polskiej",
-    "logo": "/logo/fairp.png",
-    "url": "https://www.krakow.pl/3401,obj,14437,patronaty.html",
-    "internalName": "fairp",
-    "type": "honorary"
-  },
-  {
     "name": "Małopolska Akademia Nabywania Umiejętności",
     "logo": "/logo/manu.png",
     "url": "https://manuonline.pl/",
@@ -75,6 +68,20 @@
     "url": "https://www.krakow.pl/",
     "internalName": "krakow-pl",
     "type": "media"
+  },
+  {
+    "name": "Łukasz Smółka<br /> Marszałek Województwa Małopolskiego",
+    "logo": "/logo/wojewodztwo-malopolska.png",
+    "url": "https://www.malopolska.pl/",
+    "internalName": "wojewodztwo-malopolska",
+    "type": "honorary"
+  },
+  {
+    "name": "Forum Automatyki <br />i Robotyki Polskiej",
+    "logo": "/logo/fairp.png",
+    "url": "https://fairp.pl/",
+    "internalName": "fairp",
+    "type": "honorary"
   },
   {
     "name": "Aleksander Miszalski<br /> Prezydent Miasta Krakowa",
