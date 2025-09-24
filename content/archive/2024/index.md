@@ -22,4 +22,5 @@ head:
 
 to przede wszystkim masa atrakcji i&nbsp;dobrej zabawy. Taki festiwal, wzorowany na&nbsp;podobnych imprezach odbywających się w&nbsp;środowiskach akademickich na&nbsp;całym świecie, nie mógłby obejść się bez rywalizacji robotów. Oprócz oglądania pojedynków sumo, czy wyścigów Line Followerów, można wziąć także udział w&nbsp;warsztatach robotyki. ROBOCOMP to&nbsp;także doskonała okazja dla firm do&nbsp;zaprezentowania swoich technologii, a&nbsp;dla zwiedzających możliwość zobaczenia profesjonalnych robotów.
 
-Dla najmłodszych będzie to&nbsp;wyjątkowa atrakcja, ale zaciekawi także starszych. Pomysłodawcą i&nbsp;organizatorem festiwalu jest Koło Naukowe Integra działające przy Katedrze Automatyki i&nbsp;Inżynierii Biomedycznej AGH.
+Dla najmłodszych będzie to&nbsp;wyjątkowa atrakcja, ale zaciekawi także starszych. Pomysłodawcą i&nbsp;organizatorem festiwalu jest Koło Naukowe Integra działające przy katedrze Automatyki i&nbsp;Robotyki na&nbsp;wydziale Elektrotechniki, Automatyki, Informatyki i&nbsp;Inżynierii Biomedycznej na&nbsp;AGH.  
+
