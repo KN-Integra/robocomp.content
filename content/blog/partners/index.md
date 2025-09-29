@@ -1,13 +1,13 @@
 ---
 lastmod: 2025-07-29T11:30:00Z
-draft: true
 head:
   meta:
     - name: keywords
       content: sponsors, partners, supporters
     - name: author
       content: Iwo Strzeboński
-    - description: Organizatorzy i Partnerzy Wydarzenia
+    - name: description
+      content: Organizatorzy i Partnerzy Wydarzenia
     - name: copyright
       content: © 2025 KN Integra
     - name: createdAt

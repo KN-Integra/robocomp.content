@@ -7,7 +7,7 @@ head:
     - name: author
       content: Iwo Strzeboński
     - name: copyright
-      content: © 2024 KN Integra
+      content: © 2025 KN Integra
     - name: createdAt
       content: 2024-09-09T9:00:00Z
 ---

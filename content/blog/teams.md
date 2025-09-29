@@ -9,7 +9,7 @@ head:
     - name: author
       content: Sebastian Soczawa
     - name: copyright
-      content: © 2024 KN Integra
+      content: © 2025 KN Integra
     - name: createdAt
       content: 2024-11-07T21:18:00Z
 ---
