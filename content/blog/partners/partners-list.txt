@@ -96,6 +96,13 @@
     "url": "https://www.krakow.pl/3401,obj,14775,patronaty.html",
     "internalName": "miasto-krakow",
     "type": "honorary"
+  },
+  {
+    "name": "Wydziałowa Rada Samorządu Studenckiego EAIiIB",
+    "logo": "/logo/wrss-eaiib.png",
+    "url": "https://wrss.eaiib.agh.edu.pl/",
+    "internalName": "wrss-eaiib",
+    "type": "support"
   }
 ]
 
