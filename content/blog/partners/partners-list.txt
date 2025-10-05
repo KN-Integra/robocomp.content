@@ -7,6 +7,13 @@
     "type": "bronze"
   },
   {
+    "name": "Inicjatywa Doskonałości - Uczelnia Badawcza",
+    "logo": "/logo/idub.jpg",
+    "url": "https://www.idub.agh.edu.pl//",
+    "internalName": "idub",
+    "type": "support"
+  },
+  {
     "name": "Rainlabs Services",
     "logo": "/logo/rainlabs.png",
     "url": "https://www.rainlabs.pl/",
