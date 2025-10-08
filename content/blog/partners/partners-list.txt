@@ -56,6 +56,13 @@
     "type": "media"
   },
   {
+    "name": "Radio 1.7",
+    "logo": "/logo/radio-17.png",
+    "url": "https://radio17.pl/",
+    "internalName": "radio-17",
+    "type": "media"
+  },
+  {
     "name": "Forum Automatyki <br />i Robotyki Polskiej",
     "logo": "/logo/fairp.png",
     "url": "https://fairp.pl/",
