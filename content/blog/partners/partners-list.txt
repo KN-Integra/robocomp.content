@@ -7,6 +7,13 @@
     "type": "bronze"
   },
   {
+    "name": "RBS Stal",
+    "logo": "/logo/rbs-stal.svg",
+    "url": "https://www.rbs.com.pl/",
+    "internalName": "rbs-stal",
+    "type": "bronze"
+  },
+  {
     "name": "Inicjatywa Doskonałości - Uczelnia Badawcza",
     "logo": "/logo/idub.jpg",
     "url": "https://www.idub.agh.edu.pl//",
