@@ -1,5 +1,26 @@
 [
   {
+    "name": "TME",
+    "logo": "/logo/tme.png",
+    "url": "https://www.tme.eu/",
+    "internalName": "tme",
+    "type": "gold"
+  },
+  {
+    "name": "DPS Software",
+    "logo": "/logo/dps-software.png",
+    "url": "https://dps-software.pl/",
+    "internalName": "dps-software",
+    "type": "gold"
+  },
+  {
+    "name": "Małopolska Akademia Nabywania Umiejętności",
+    "logo": "/logo/manu.png",
+    "url": "https://manuonline.pl/",
+    "internalName": "manu",
+    "type": "silver"
+  },
+  {
     "name": "Sofyne Active Technology",
     "logo": "/logo/sofyne.svg",
     "url": "https://sofynetech.com/",
@@ -14,10 +35,52 @@
     "type": "bronze"
   },
   {
+    "name": "Łukasz Smółka<br /> Marszałek Województwa Małopolskiego",
+    "logo": "/logo/wojewodztwo-malopolska.png",
+    "url": "https://www.malopolska.pl/",
+    "internalName": "wojewodztwo-malopolska",
+    "type": "honorary"
+  },
+  {
+    "name": "Aleksander Miszalski<br /> Prezydent Miasta Krakowa",
+    "logo": "/logo/miasto-krakow.jpg",
+    "url": "https://www.krakow.pl/3401,obj,14775,patronaty.html",
+    "internalName": "miasto-krakow",
+    "type": "honorary"
+  },
+  {
+    "name": "Portal Magiczny Kraków",
+    "logo": "/logo/krakow-pl.jpg",
+    "url": "https://www.krakow.pl/",
+    "internalName": "krakow-pl",
+    "type": "media"
+  },
+  {
+    "name": "Forum Automatyki <br />i Robotyki Polskiej",
+    "logo": "/logo/fairp.png",
+    "url": "https://fairp.pl/",
+    "internalName": "fairp",
+    "type": "honorary"
+  },
+  {
+    "name": "Muzeum Sztuki i Techniki Japońskiej Manggha",
+    "logo": "/logo/manggha.png",
+    "url": "https://manggha.pl/",
+    "internalName": "manggha",
+    "type": "cultural"
+  },
+  {
     "name": "Inicjatywa Doskonałości - Uczelnia Badawcza",
     "logo": "/logo/idub.jpg",
     "url": "https://www.idub.agh.edu.pl//",
     "internalName": "idub",
+    "type": "support"
+  },
+  {
+    "name": "Wydziałowa Rada Samorządu Studenckiego EAIiIB",
+    "logo": "/logo/wrss-eaiib.png",
+    "url": "https://wrss.eaiib.agh.edu.pl/",
+    "internalName": "wrss-eaiib",
     "type": "support"
   },
   {
@@ -46,69 +109,6 @@
     "logo": "/logo/japan-sumo.svg",
     "url": "https://robot-sumo.jp/",
     "internalName": "japan-sumo",
-    "type": "support"
-  },
-  {
-    "name": "Małopolska Akademia Nabywania Umiejętności",
-    "logo": "/logo/manu.png",
-    "url": "https://manuonline.pl/",
-    "internalName": "manu",
-    "type": "silver"
-  },
-  {
-    "name": "Muzeum Sztuki i Techniki Japońskiej Manggha",
-    "logo": "/logo/manggha.png",
-    "url": "https://manggha.pl/",
-    "internalName": "manggha",
-    "type": "cultural"
-  },
-  {
-    "name": "TME",
-    "logo": "/logo/tme.png",
-    "url": "https://www.tme.eu/",
-    "internalName": "tme",
-    "type": "gold"
-  },
-  {
-    "name": "DPS Software",
-    "logo": "/logo/dps-software.png",
-    "url": "https://dps-software.pl/",
-    "internalName": "dps-software",
-    "type": "gold"
-  },
-  {
-    "name": "Portal Magiczny Kraków",
-    "logo": "/logo/krakow-pl.jpg",
-    "url": "https://www.krakow.pl/",
-    "internalName": "krakow-pl",
-    "type": "media"
-  },
-  {
-    "name": "Łukasz Smółka<br /> Marszałek Województwa Małopolskiego",
-    "logo": "/logo/wojewodztwo-malopolska.png",
-    "url": "https://www.malopolska.pl/",
-    "internalName": "wojewodztwo-malopolska",
-    "type": "honorary"
-  },
-  {
-    "name": "Forum Automatyki <br />i Robotyki Polskiej",
-    "logo": "/logo/fairp.png",
-    "url": "https://fairp.pl/",
-    "internalName": "fairp",
-    "type": "honorary"
-  },
-  {
-    "name": "Aleksander Miszalski<br /> Prezydent Miasta Krakowa",
-    "logo": "/logo/miasto-krakow.jpg",
-    "url": "https://www.krakow.pl/3401,obj,14775,patronaty.html",
-    "internalName": "miasto-krakow",
-    "type": "honorary"
-  },
-  {
-    "name": "Wydziałowa Rada Samorządu Studenckiego EAIiIB",
-    "logo": "/logo/wrss-eaiib.png",
-    "url": "https://wrss.eaiib.agh.edu.pl/",
-    "internalName": "wrss-eaiib",
     "type": "support"
   }
 ]
