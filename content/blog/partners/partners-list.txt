@@ -79,7 +79,7 @@
   {
     "name": "Inicjatywa Doskonałości - Uczelnia Badawcza",
     "logo": "/logo/idub.jpg",
-    "url": "https://www.idub.agh.edu.pl//",
+    "url": "https://www.idub.agh.edu.pl/",
     "internalName": "idub",
     "type": "support"
   },
@@ -119,5 +119,3 @@
     "type": "support"
   }
 ]
-
-
