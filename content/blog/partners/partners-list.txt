@@ -49,6 +49,13 @@
     "type": "honorary"
   },
   {
+    "name": "Forum Automatyki <br />i Robotyki Polskiej",
+    "logo": "/logo/fairp.png",
+    "url": "https://fairp.pl/",
+    "internalName": "fairp",
+    "type": "honorary"
+  },
+  {
     "name": "Portal Magiczny Kraków",
     "logo": "/logo/krakow-pl.jpg",
     "url": "https://www.krakow.pl/",
@@ -63,11 +70,11 @@
     "type": "media"
   },
   {
-    "name": "Forum Automatyki <br />i Robotyki Polskiej",
-    "logo": "/logo/fairp.png",
-    "url": "https://fairp.pl/",
-    "internalName": "fairp",
-    "type": "honorary"
+    "name": "Scanmed Gruppo San Donato",
+    "logo": "/logo/scanmed.jpg",
+    "url": "https://www.scanmed.pl",
+    "internalName": "scanmed",
+    "type": "medical"
   },
   {
     "name": "Muzeum Sztuki i Techniki Japońskiej Manggha",
