@@ -71,7 +71,7 @@
   },
   {
     "name": "Scanmed Gruppo San Donato",
-    "logo": "/logo/scanmed.jpg",
+    "logo": "/logo/scanmed.png",
     "url": "https://www.scanmed.pl",
     "internalName": "scanmed",
     "type": "medical"
