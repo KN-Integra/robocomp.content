@@ -6,57 +6,46 @@ This repository contains the content of the [AGH Integra Science Club](knintegra
 
 ## Important information
 
-- Every pull request which doesn't update the `lastmod` key and
-  doesn't have the provided snippet at the top of the file will be rejected.
+- Every pull request which doesn't have the required preamble will be **automatically rejected by CI**.
 
-- You **must** use the provided snippet and update the `lastmod` key every time you change the page
-  **or** use Husky's pre-commit hook to do it automatically or your pull request will be rejected.
+- The `lastmod` field is updated automatically by the CI pipeline on every push — no action needed from you.
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/en/) (version 18 or higher)
+- [Git](https://git-scm.com/) — to clone the repository
 
 ## Preparing the environment
 
 1. Clone this repository
-2. Install dependencies
-   - Using NPM
 
-      ```bash
-      npm install
-      ```
+## CI validation pipeline
 
-   - Using Yarn
+Every time a commit that touches one or more `content/**/*.md` files is pushed,
+the **Validate and update lastmod** GitHub Actions workflow
+(`.github/workflows/update-lastmod.yml`) runs the following steps **in order**:
 
-      ```bash
-      yarn install
-      ```
+1. **Lint** — runs [markdownlint](https://github.com/DavidAnson/markdownlint) on every
+   changed file using the rules defined in `.markdownlint.yml`.
+   **This check is mandatory — the push is rejected if any linting error is found.**
+2. **Preamble check** — verifies that every changed file has the required YAML
+   front-matter (see [What should be in the page](#what-should-be-in-the-page)).
+   **This check is mandatory — the push is rejected if any required field is missing.**
+3. **Draft check** — scans every changed file for `draft: true` in the preamble and
+   emits a **warning** for each draft found.
+   This check is **non-blocking**: drafts are frowned upon but accepted, because a draft
+   page will not appear on the live website. The warning is visible in the GitHub Actions
+   UI so that reviewers can make an informed decision.
+4. **Update `lastmod`** — replaces the `lastmod` value with the current UTC timestamp
+   (`YYYY-MM-DDTHH:MM:SSZ`) and commits the result back automatically.
 
-   - Using PNPM
+| Check | Severity | Effect |
+|---|---|---|
+| Lint (`markdownlint`) | **Mandatory** | Hard fail — push is blocked |
+| Required preamble fields | **Mandatory** | Hard fail — push is blocked |
+| Draft documents (`draft: true`) | **Warning** | Soft warning — push is accepted |
 
-      ```bash
-      pnpm install --shamefully-hoist
-      ```
-
-3. Prepare Husky
-
-   - Using NPM
-
-      ```bash
-      npm run prepare
-      ```
-
-   - Using Yarn
-
-      ```bash
-      yarn prepare
-      ```
-
-   - Using PNPM
-
-      ```bash
-      pnpm prepare
-      ```
+No installation of any tool is required — the workflow runs entirely on
+GitHub-hosted runners using only standard shell utilities and Node.js (pre-installed).
 
 ## Suggested extensions for VSCode
 
@@ -162,3 +151,8 @@ Then you can use this link in your markdown file.
 - You shouldn't edit nor remove the `teapot.md` file.
   This file is used to store information about the HTTP 418 status code (**INCREDIBLY IMPORTANT**).
   - Really, don't remove this file. It's important.
+- You **shouldn't push draft pages** (`draft: true` in the preamble).
+  Drafts are accepted by CI with a warning, but they are strongly discouraged.
+  A draft page will not appear on the live website.
+  Only use `draft: true` for work-in-progress content that is actively being developed
+  and must not yet be visible — and remove it before the page is considered finished.

@@ -1,10 +1,37 @@
 default: true
 extends: null
 
+# Inline HTML is used intentionally in content pages
+# (e.g. <iframe>, <br />, <a> with custom attributes).
+MD033: false
+
+# Line length: 120 characters.
+# Headings are checked strictly; code blocks and tables are excluded.
 MD013:
   strict: true
   line_length: 120
+  heading_line_length: 120
   code_blocks: false
   tables: false
 
+# Bare URLs are allowed (content links use them directly).
 MD034: false
+
+# Emphasis (*italic*) must use asterisks, not underscores.
+MD049:
+  style: asterisk
+
+# Strong (**bold**) must use asterisks, not underscores.
+MD050:
+  style: asterisk
+
+# Duplicate headings are forbidden even when at different nesting levels.
+MD024:
+  allow_different_nesting: false
+
+# Ordered lists must use sequential numbering (1. 2. 3.), not all-ones (1. 1. 1.).
+MD029:
+  style: ordered
+
+# Files must end with a single newline character.
+MD047: true
