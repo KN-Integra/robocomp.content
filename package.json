@@ -7,9 +7,6 @@
   "license": "WTFPL",
   "private": false,
   "scripts": {
-    "prepare": "husky install"
-  },
-  "dependencies": {
-    "husky": "^8.0.3"
+    "update-lastmod": "node scripts/update-lastmod.js"
   }
 }
