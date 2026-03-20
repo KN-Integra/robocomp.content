@@ -5,8 +5,5 @@
   "repository": "https://github.com/KN-Integra/robocomp.content.git",
   "author": "Octoturge <iwo.strzebonski@gmail.com>",
   "license": "WTFPL",
-  "private": false,
-  "scripts": {
-    "update-lastmod": "node scripts/update-lastmod.js"
-  }
+  "private": false
 }

@@ -9,12 +9,12 @@ This repository contains the content of the [AGH Integra Science Club](knintegra
 - Every pull request which doesn't update the `lastmod` key and
   doesn't have the provided snippet at the top of the file will be rejected.
 
-- You **must** use the provided snippet and update the `lastmod` key every time you change the page
-  **or** run the provided `update-lastmod` script to do it automatically or your pull request will be rejected.
+- You **must** use the provided snippet and update the `lastmod` key every time you change the page.
+  The `lastmod` field is updated automatically by the CI pipeline on every push — no action needed from you.
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/en/) (version 18 or higher)
+- [Git](https://git-scm.com/) — to clone the repository
 
 ## Preparing the environment
 
@@ -22,59 +22,19 @@ This repository contains the content of the [AGH Integra Science Club](knintegra
 
 ## Updating `lastmod` automatically
 
-The `scripts/update-lastmod.js` script updates the `lastmod` field in every changed
-content file to the current UTC timestamp. It requires only Node.js — no extra packages
-need to be installed.
+The `lastmod` front-matter field is updated automatically by the
+**Update lastmod** GitHub Actions workflow (`.github/workflows/update-lastmod.yml`).
 
-### Run manually before committing
+Every time a commit that touches one or more `content/**/*.md` files is pushed,
+the workflow:
 
-Update all files you have staged for the next commit:
+1. Finds all Markdown files in `content/` that were changed in the push.
+2. Replaces their `lastmod` value with the current UTC timestamp
+   (`YYYY-MM-DDTHH:MM:SSZ`).
+3. Commits and pushes the result back to the same branch automatically.
 
-```bash
-node scripts/update-lastmod.js
-```
-
-Update all modified (but not necessarily staged) files in `content/`:
-
-```bash
-node scripts/update-lastmod.js --all
-```
-
-Update specific files:
-
-```bash
-node scripts/update-lastmod.js content/blog/about.md content/blog/contact.md
-```
-
-Or via the npm script alias (works with npm, yarn, and pnpm):
-
-```bash
-npm run update-lastmod
-```
-
-### Install as a git pre-commit hook (optional)
-
-You can wire the script up as a git hook so it runs automatically on every commit.
-Copy (or symlink) the following one-liner into `.git/hooks/pre-commit` and make it
-executable:
-
-```sh
-#!/bin/sh
-node scripts/update-lastmod.js
-```
-
-On **Linux / macOS**:
-
-```bash
-printf '#!/bin/sh\nnode scripts/update-lastmod.js\n' > .git/hooks/pre-commit
-chmod +x .git/hooks/pre-commit
-```
-
-On **Windows** (PowerShell):
-
-```powershell
-"#!/bin/sh`nnode scripts/update-lastmod.js" | Set-Content .git\hooks\pre-commit
-```
+No installation of any tool is required — the workflow runs entirely on
+GitHub-hosted runners using only standard shell utilities.
 
 ## Suggested extensions for VSCode
 
