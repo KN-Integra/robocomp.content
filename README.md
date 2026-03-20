@@ -6,11 +6,9 @@ This repository contains the content of the [AGH Integra Science Club](knintegra
 
 ## Important information
 
-- Every pull request which doesn't update the `lastmod` key and
-  doesn't have the provided snippet at the top of the file will be rejected.
+- Every pull request which doesn't have the required preamble will be **automatically rejected by CI**.
 
-- You **must** use the provided snippet and update the `lastmod` key every time you change the page.
-  The `lastmod` field is updated automatically by the CI pipeline on every push — no action needed from you.
+- The `lastmod` field is updated automatically by the CI pipeline on every push — no action needed from you.
 
 ## Requirements
 
@@ -20,21 +18,23 @@ This repository contains the content of the [AGH Integra Science Club](knintegra
 
 1. Clone this repository
 
-## Updating `lastmod` automatically
-
-The `lastmod` front-matter field is updated automatically by the
-**Update lastmod** GitHub Actions workflow (`.github/workflows/update-lastmod.yml`).
+## CI validation pipeline
 
 Every time a commit that touches one or more `content/**/*.md` files is pushed,
-the workflow:
+the **Validate and update lastmod** GitHub Actions workflow
+(`.github/workflows/update-lastmod.yml`) runs the following steps **in order**:
 
-1. Finds all Markdown files in `content/` that were changed in the push.
-2. Replaces their `lastmod` value with the current UTC timestamp
-   (`YYYY-MM-DDTHH:MM:SSZ`).
-3. Commits and pushes the result back to the same branch automatically.
+1. **Lint** — runs [markdownlint](https://github.com/DavidAnson/markdownlint) on every
+   changed file using the rules defined in `.markdownlint.yml`.
+   The push is rejected if any linting error is found.
+2. **Preamble check** — verifies that every changed file has the required YAML
+   front-matter (see [What should be in the page](#what-should-be-in-the-page)).
+   The push is rejected if any required field is missing.
+3. **Update `lastmod`** — replaces the `lastmod` value with the current UTC timestamp
+   (`YYYY-MM-DDTHH:MM:SSZ`) and commits the result back automatically.
 
 No installation of any tool is required — the workflow runs entirely on
-GitHub-hosted runners using only standard shell utilities.
+GitHub-hosted runners using only standard shell utilities and Node.js (pre-installed).
 
 ## Suggested extensions for VSCode
 
