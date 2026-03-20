@@ -1,5 +1,5 @@
 ---
-lastmod: 2025-09-05T07:00:00Z
+lastmod: 2026-03-20T09:00:00Z
 head:
   meta:
     - name: keywords
@@ -14,7 +14,7 @@ head:
       content: 2024-10-06T00:03:00Z
 ---
 
-# Regulaminy <br />Festiwalu Robotyki <br />ROBOCOMP 2025
+# Regulaminy <br />Festiwalu Robotyki <br />ROBOCOMP 2026
 
 ## Regulamin Główny i zgody
 

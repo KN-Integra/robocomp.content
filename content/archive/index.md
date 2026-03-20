@@ -1,9 +1,9 @@
 ---
-lastmod: 2025-04-09T06:50:00Z
+lastmod: 2026-03-20T09:00:00Z
 head:
   meta:
     - name: keywords
-      content: home, index, main, start, landing-page
+      content: archive, old, history
     - name: author
       content: Iwo Strzeboński
     - name: copyright
@@ -15,3 +15,4 @@ head:
 # Archiwum Festiwalu Robotyki ROBOCOMP
 
 - [2024](/archive/2024/)
+- [2025](/archive/2025/)
