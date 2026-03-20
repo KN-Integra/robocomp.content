@@ -99,6 +99,35 @@ jobs:
             exit 1
           fi
 
+      - name: Check for draft documents
+        # Drafts (draft: true in the preamble) are frowned upon but accepted —
+        # they will not be displayed on the live website. This step emits a
+        # GitHub Actions warning annotation for every draft file found so that
+        # reviewers are aware, but it does NOT fail the workflow.
+        if: steps.changed.outputs.has_files == 'true'
+        run: |
+          DRAFTS=0
+
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            [ ! -f "$file" ] && continue
+
+            # Extract YAML preamble (strip \r to handle CRLF files).
+            PREAMBLE=$(awk 'NR==1{next} /^---$/{exit} {print}' "$file" | tr -d '\r')
+
+            if printf '%s\n' "$PREAMBLE" | grep -q '^[[:space:]]*draft: true$'; then
+              # Emit a GitHub Actions warning annotation visible in the UI.
+              echo "::warning file=$file::$file is marked as draft: true — drafts are frowned upon but will be accepted. The page will NOT appear on the live website."
+              DRAFTS=$((DRAFTS + 1))
+            fi
+          done < /tmp/changed-files.txt
+
+          if [ "$DRAFTS" -gt 0 ]; then
+            echo ""
+            echo "⚠️  $DRAFTS draft file(s) detected in this push."
+            echo "    Drafts are accepted but strongly discouraged — remove 'draft: true' before the page goes live."
+          fi
+
       - name: Update lastmod in changed content files
         # NOTE: The timestamp reflects when the push was processed by this workflow,
         # not the exact moment of the local file edit. This is intentional —

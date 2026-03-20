@@ -26,12 +26,23 @@ the **Validate and update lastmod** GitHub Actions workflow
 
 1. **Lint** — runs [markdownlint](https://github.com/DavidAnson/markdownlint) on every
    changed file using the rules defined in `.markdownlint.yml`.
-   The push is rejected if any linting error is found.
+   **This check is mandatory — the push is rejected if any linting error is found.**
 2. **Preamble check** — verifies that every changed file has the required YAML
    front-matter (see [What should be in the page](#what-should-be-in-the-page)).
-   The push is rejected if any required field is missing.
-3. **Update `lastmod`** — replaces the `lastmod` value with the current UTC timestamp
+   **This check is mandatory — the push is rejected if any required field is missing.**
+3. **Draft check** — scans every changed file for `draft: true` in the preamble and
+   emits a **warning** for each draft found.
+   This check is **non-blocking**: drafts are frowned upon but accepted, because a draft
+   page will not appear on the live website. The warning is visible in the GitHub Actions
+   UI so that reviewers can make an informed decision.
+4. **Update `lastmod`** — replaces the `lastmod` value with the current UTC timestamp
    (`YYYY-MM-DDTHH:MM:SSZ`) and commits the result back automatically.
+
+| Check | Severity | Effect |
+|---|---|---|
+| Lint (`markdownlint`) | **Mandatory** | Hard fail — push is blocked |
+| Required preamble fields | **Mandatory** | Hard fail — push is blocked |
+| Draft documents (`draft: true`) | **Warning** | Soft warning — push is accepted |
 
 No installation of any tool is required — the workflow runs entirely on
 GitHub-hosted runners using only standard shell utilities and Node.js (pre-installed).
@@ -140,3 +151,8 @@ Then you can use this link in your markdown file.
 - You shouldn't edit nor remove the `teapot.md` file.
   This file is used to store information about the HTTP 418 status code (**INCREDIBLY IMPORTANT**).
   - Really, don't remove this file. It's important.
+- You **shouldn't push draft pages** (`draft: true` in the preamble).
+  Drafts are accepted by CI with a warning, but they are strongly discouraged.
+  A draft page will not appear on the live website.
+  Only use `draft: true` for work-in-progress content that is actively being developed
+  and must not yet be visible — and remove it before the page is considered finished.
