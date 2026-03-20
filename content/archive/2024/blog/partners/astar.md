@@ -1,6 +1,5 @@
 ---
 lastmod: 2024-11-07T07:00:00Z
-draft: true
 head:
   meta:
     - name: keywords
