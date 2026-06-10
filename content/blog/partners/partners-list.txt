@@ -7,6 +7,13 @@
     "type": "gold"
   },
   {
+    "name": "Małopolska Akademia Nabywania Umiejętności",
+    "logo": "/logo/manu.png",
+    "url": "https://manuonline.pl/",
+    "internalName": "manu",
+    "type": "silver"
+  },
+  {
     "name": "Rainlabs Services",
     "logo": "/logo/rainlabs.png",
     "url": "https://www.rainlabs.pl/",
