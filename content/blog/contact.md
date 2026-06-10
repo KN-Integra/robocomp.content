@@ -37,11 +37,11 @@ ul. Czarnowiejska 30/4<br />
 
 ## Organizatorzy
 
-- **Organizator Główny**: Iwo Strzeboński
-- **Organizator Główny**: Mateusz Szynal
-- **Koordynator ds. Uczestników**: Adam Maciuga
-- **Koordynator ds. Promocji i Marketingu**: Andrzej Piotrowski
-- **Koordynator ds. Technicznych**: Eryk Pawełek
+- **Organizator Główny**: Andrzej Piotrowski
+- **Koordynator ds. Designu**: Jan Szot
+- **Koordynator ds. Technicznych**: Adam Maciuga
+- **Koordynator ds. Uczestników**: Iwo Strzeboński
+- **Koordynator ds. Promocji i Marketingu**: Anna Niezgoda
 
 ## Dane Kontaktowe
 
@@ -49,4 +49,4 @@ ul. Czarnowiejska 30/4<br />
 - **Kontakt z Kołem Naukowym KN Integra**: [kontakt.knintegra@gmail.com](mailto:kontakt.knintegra@gmail.com)
 - **Sponsoring i Współprace**: [rzecznik.integra@gmail.com](mailto:rzecznik.integra@gmail.com)
 - **Kontakt z Zarządem**: [integra@agh.edu.pl](mailto:integra@agh.edu.pl)
-- **Tel**: [+48 533 271 474](tel:+48533271474)
+- **Tel**: [+48 782 813 331](tel:+48782813331)
